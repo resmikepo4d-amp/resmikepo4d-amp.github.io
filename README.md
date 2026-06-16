@@ -4,11 +4,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>KEPO4D : Link Login Situs Bandar Togel Online Terpercaya No.1</title>
-    <meta name="description" content="KEPO4D adalah Salah satu link login situs bandar togel online yang lagi viral karena terpercaya dan terbesar No.1 di Asia dengan pasaran terlengkap dan sangat berkualitas. KEPO4D juga menyediakan berbagai pilihan permainan online resmi dengan pasaran sangat lengkap dan terbaik di Asia." />
+    <title>KEPO4D : Login Situs KEPO4D.COM Platform TotoGelab Online</title>
+    <meta name="description" content="KEPO4D adalah Salah satu link login situs Platform TotoGelab Online viral serta terpercaya dan terbesar No.1 di Asia dengan pasaran terlengkap dan pembayaran yang praktis." />
     <meta name="robots" content="index,follow" />
     <link href="https://kepo4d.it.com/assets/img/agi/favicon.png?v=1698743998" rel="icon" type="image/x-icon" />
-    <link rel="canonical" href="https://kepo4dbet.com/register" />
+    <link rel="canonical" href="#" />
     <link rel="alternate" href="https://kepo4dbet.com/register" hreflang="id" />
     <meta property="og:url" content="https://kepo4dbet.com/register" />
     <meta property="og:site_name" content="KEPO4D" />
