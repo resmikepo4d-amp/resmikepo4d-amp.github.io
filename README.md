@@ -8,9 +8,9 @@
     <meta name="description" content="KEPO4D adalah Salah satu link login situs Platform TotoGelab Online viral serta terpercaya dan terbesar No.1 di Asia dengan pasaran terlengkap dan pembayaran yang praktis." />
     <meta name="robots" content="index,follow" />
     <link href="https://kepo4d.it.com/assets/img/agi/favicon.png?v=1698743998" rel="icon" type="image/x-icon" />
-    <link rel="canonical" href="#" />
-    <link rel="alternate" href="https://kepo4dbet.com/register" hreflang="id" />
-    <meta property="og:url" content="https://kepo4dbet.com/register" />
+    <link rel="canonical" href="https://kepo4dbet.com/" />
+    <link rel="alternate" href="https://kepo4dbet.com/" hreflang="id" />
+    <meta property="og:url" content="https://kepo4dbet.com/" />
     <meta property="og:site_name" content="KEPO4D" />
     <meta property="og:image:alt" content="KEPO4D" />
     <meta property="og:image" content="https://kepotogel.com/slotqris-x500-kepo4d.png" />
@@ -356,7 +356,7 @@
         </center>
       </header>
       <div class="welcome">
-        <h3>@SEO_DBAA > YOK SEMANGAT YOK</h3>
+        <h3>LOGIN RESMI KEPO4D > YOK SEMANGAT YOK</h3>
       </div>
       <amp-img src="https://kepotogel.com/slotqris-x500-kepo4d.png" width="1946" height="1946" layout="intrinsic" class="banner"></amp-img>
       <a href="https://kepo4d-utama.pages.dev/kosongkan/" target="_blank" rel="noreferrer noopener" role="button" class="btn-menu">LOGIN KEPO4D</a>
